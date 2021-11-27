@@ -1,5 +1,5 @@
 <div align="center">
-<img width="50" height="50" src="java.png"/>
+<img width="90" height="90" src="java.png"/>
 <h1>BELAJAR JAVA</h1>
 <p>
   <a href="https://twitter.com/IhsanDevs" target="_blank">
